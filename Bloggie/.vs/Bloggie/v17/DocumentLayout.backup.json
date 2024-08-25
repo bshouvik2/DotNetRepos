@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|g:\\aotmail\\sam_besant\\asp.net \u0026 ado.net\\bloggie\\views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EE3D12E-67FE-436D-B98C-924E93BE5617}|Bloggie.csproj|solutionrelative:views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T14:46:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:38:29.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:30:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:26:49.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:12:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Admin\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Add.cshtml",
+              "ToolTip": "G:\\aotmail\\sam_besant\\ASP.NET \u0026 ADO.NET\\Bloggie\\Views\\Admin\\Add.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Add.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:12:34.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
