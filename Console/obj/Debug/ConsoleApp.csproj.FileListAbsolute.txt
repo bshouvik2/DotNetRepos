@@ -1,0 +1,21 @@
+G:\aotmail\sam_besant\dot net\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+G:\aotmail\sam_besant\dot net\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\aotmail\sam_besant\dot net\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\aotmail\sam_besant\dot net\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\dot net\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\aotmail\sam_besant\dot net\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\dot net\ConsoleApp\obj\Debug\ConsoleApp.pdb
+G:\aotmail\sam_besant\C#\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+G:\aotmail\sam_besant\C#\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\C#\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\aotmail\sam_besant\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+G:\aotmail\sam_besant\C#\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\aotmail\sam_besant\C#\ConsoleApp\obj\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\C#\ConsoleApp\obj\Debug\ConsoleApp.pdb
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\bin\Debug\ConsoleApp.exe.config
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\bin\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\bin\Debug\ConsoleApp.pdb
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\obj\Debug\ConsoleApp.exe
+G:\aotmail\sam_besant\ASP.NET & ADO.NET\Print name and add no in console\obj\Debug\ConsoleApp.pdb
